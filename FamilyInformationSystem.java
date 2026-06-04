@@ -61,7 +61,7 @@ public class FamilyInformationSystem {
 	public static void main(String[] args) {
 
     // Display the role associated with choice number 3.
-    familyRole(1);
+    familyRole(3);
 
     // Store the names of family members in an array.
     String[] fam = {"Father", "Mother", "Daughter1", "Daughter2", "Son1", "Son2"};
